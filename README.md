@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![图片名字](哪吒.jpg)
+![](https://github-readme-stats.vercel.app/api?username=tec-pHHHHHH&show_icons=ture&theme=transparent)
